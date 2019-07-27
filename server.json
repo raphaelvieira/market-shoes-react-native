@@ -1,0 +1,36 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Kit 3 Pares de Sapatênis",
+      "price": 179.9,
+      "image": "https://static.netshoes.com.br/produtos/kit-3-pares-de-sapatenis-sapatofran-sw-masculino/56/HAP-0151-256/HAP-0151-256_detalhe2.jpg?resize=326:*"
+    },
+    {
+      "id": 2,
+      "title": "Sapatênis Walkabout WKT Masculino - Marrom",
+      "price": 139.9,
+      "image": "https://static.netshoes.com.br/produtos/sapatenis-walkabout-wkt-masculino/38/H25-1070-138/H25-1070-138_detalhe2.jpg?resize=326:*"
+    },
+    {
+      "id": 3,
+      "title": "Sapatênis Couro Cano Médio Wakalbout Masculino - Café",
+      "price": 219.9,
+      "image": "https://static.netshoes.com.br/produtos/sapatenis-couro-cano-medio-wakalbout-masculino/03/H25-0919-003/H25-0919-003_detalhe2.jpg?resize=326:*"
+    }
+  ]
+}
